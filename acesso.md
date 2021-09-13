@@ -14,4 +14,7 @@ Como acessar o 5000 online para abrir um chamado ou fazer uma requisição:
 1. na aba de pesquisa deve ser digitado " "
 2. abra o chamado e preencha adequadamente as informações que forem solicitadas.  
     * preenchimento dos dados
+        * a
+        * b
+        * c
 3. envie o chamado e aguarde até que a requisição seja autorizada e completada.
